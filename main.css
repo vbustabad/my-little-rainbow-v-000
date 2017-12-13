@@ -37,3 +37,7 @@ div {
 #violet { /* this selects any elements with the violet id */
   color: #d300c9;
 }
+
+#test {
+  display: none;
+}
