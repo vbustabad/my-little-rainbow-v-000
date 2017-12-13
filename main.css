@@ -15,7 +15,7 @@ div {
 }
 
 #orange { /* this selects any elements with the orange id */
-  color: ffa500;
+  color: #ffa500;
 }
 
 #yellow { /* this selects any elements with the yellow id */
@@ -23,7 +23,7 @@ div {
 }
 
 #green { /* this selects any elements with the green id */
-  color: 00bc3f;
+  color: #00bc3f;
 }
 
 #blue { /* this selects any elements with the blue id */
